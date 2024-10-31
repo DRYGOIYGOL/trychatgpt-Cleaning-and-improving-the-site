@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Удаляет элементы с определёнными классами и изменяет стили chatbox
-// @author       You
+// @author       IsFresh27
 // @match        https://trychatgpt.ru/
 // @match        https://trychatgpt.ru/
 // @grant        none
